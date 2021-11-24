@@ -1,0 +1,1 @@
+For testing our code there can be number of tools/libraries but basically in this code we will consider looking at "Mocha"(to run tests), "Chai"(to validate test outcome) and "Sinon"(to manage side effects/external dependencies, stubing or mocking).
